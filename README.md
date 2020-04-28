@@ -11,26 +11,10 @@ Heu de crear un programa que llegit un discurs us digui:
 
 
 - Paraula més llarga
-- Lletra que apareix més vegades
-- Estadística de paraules i quants cops es repeteixen.
+- Lletra que apareix més vegades (sense tenir en compte majúscules i minúscules). Aa són dues a.
+- Estadística de paraules i quants cops es repeteixen (sense tenir en compte majúscules i minúscules). Programació i proGRamaciÓ són dues vegades programació.
 - El top 5 de paraules que es repeteixen més.
 
 Aqui podeu obtenir els textos de la mateixa carpeta discursos. I heu de completar el codi discurs.py.
 
-## Exercici 2. Netejant text
 
-Donat un text heu de mostrar aquest sense els signes que no siguin lletres (comptant majúscules i minúscules)
-Per exemple:de la paraula "vols?", ens retornaria "vols".De la paraula "@#€hola23@#€#" ens retornaria "hola".
-
-Aqui podeu obtenir els textos de la mateixa carpeta discursos. I heu de completar el codi netejar.py.
-
-## Exercici 3. Rima?
-
-Heu de dir si un poema té la rima:
-
-- consonant perfecte: té les dues darreres lletres igual en versos alterns o en consecutius.
-- consonant: té les dues darreres lletres igual en versos alterns o en consecutius.
-- assonant: té en les quatre darreres lletres igual les vocals. En versos alterns o en consecutius.
-- no rima: no compleix cap de les anteriors.
-
-Aqui podeu obtenir els textos de la carpeta poesia.
