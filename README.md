@@ -11,7 +11,6 @@ Heu de crear un programa que llegit un discurs us digui:
 
 
 - Paraula més llarga
-- Lletra que apareix més vegades (sense tenir en compte majúscules i minúscules). Aa són dues a.
 - Estadística de paraules i quants cops es repeteixen (sense tenir en compte majúscules i minúscules). Programació i proGRamaciÓ són dues vegades programació.
 - El top 5 de paraules que es repeteixen més.
 
